@@ -1,0 +1,24 @@
+h1 {
+    font-family: cursive;
+    color:cadetblue;
+    text-align: center;
+    font-size: 45px;
+}
+body{
+    background-color: azure;
+}
+h2{
+    color:darkred;
+    font-size: 35px;
+}
+
+p{
+    font-size: 20px;
+    color:salmon;
+}
+img{
+    height:200px;
+}
+h6{
+  font-size: 35px;  
+}
